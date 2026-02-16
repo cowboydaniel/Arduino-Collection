@@ -68,11 +68,18 @@ A checkable list of all boards included in the official `arduino:avr` core packa
 
 ---
 
-## Intel Quark / Uno Q Core (`Intel:i586`)
+## Intel i586 Core (`Intel:i586`)
 
 - [ ] Intel Galileo Gen1
 - [ ] Intel Galileo Gen2
 - [ ] Intel Edison AT Board
+
+---
+
+## Arduino Uno Q Core (`arduino:zephyr`)
+
+- [ ] Arduino Uno Q
+- [ ] Arduino Uno Q 4GB
 
 ---
 
