@@ -8,12 +8,12 @@ A checkable list of boards across official Arduino core packages.
 
 A checkable list of all boards included in the official `arduino:avr` core package.
 
-- [ ] Arduino Yún
-- [ ] Arduino Uno
+- [x] Arduino Yún
+- [x] Arduino Uno
 - [ ] Arduino Uno WiFi
 - [ ] Arduino Diecimila
-- [ ] Arduino Nano
-- [ ] Arduino Mega or Mega 2560
+- [x] Arduino Nano
+- [x] Arduino Mega or Mega 2560
 - [ ] Arduino Mega ADK
 - [ ] Arduino Leonardo
 - [ ] Arduino Leonardo ETH
@@ -25,7 +25,7 @@ A checkable list of all boards included in the official `arduino:avr` core packa
 - [ ] Arduino BT
 - [ ] LilyPad Arduino USB
 - [ ] LilyPad Arduino
-- [ ] Arduino Pro or Pro Mini
+- [x] Arduino Pro or Pro Mini
 - [ ] Arduino NG or older
 - [ ] Arduino Robot Control
 - [ ] Arduino Robot Motor
@@ -40,13 +40,13 @@ A checkable list of all boards included in the official `arduino:avr` core packa
 ## megaAVR Core (`arduino:megaavr`)
 
 - [ ] Arduino Uno WiFi Rev2
-- [ ] Arduino Nano Every
+- [x] Arduino Nano Every
 
 ---
 
 ## ARM 32-bit SAM Core (`arduino:sam`)
 
-- [ ] Arduino Due
+- [x] Arduino Due
 
 ---
 
@@ -72,7 +72,7 @@ A checkable list of all boards included in the official `arduino:avr` core packa
 
 ## Intel Curie Core (`Intel:arc32`)
 
-- [ ] Arduino 101
+- [x] Arduino 101
 
 ---
 
@@ -86,7 +86,7 @@ A checkable list of all boards included in the official `arduino:avr` core packa
 
 ## Arduino Uno Q Core (`arduino:zephyr`)
 
-- [ ] Arduino Uno Q
+- [x] Arduino Uno Q
 - [ ] Arduino Uno Q 4GB
 
 ---
@@ -94,7 +94,7 @@ A checkable list of all boards included in the official `arduino:avr` core packa
 ## Renesas UNO R4 Core (`arduino:renesas_uno`)
 
 - [ ] Arduino Uno R4 Minima
-- [ ] Arduino Uno R4 WiFi
+- [x] Arduino Uno R4 WiFi
 - [ ] Arduino Nano R4
 
 ---
@@ -107,7 +107,7 @@ A checkable list of all boards included in the official `arduino:avr` core packa
 
 ## ESP32 Core (`arduino:esp32`)
 
-- [ ] Arduino Nano ESP32
+- [x] Arduino Nano ESP32
 - [ ] Arduino Nesso N1
 
 ---
@@ -147,7 +147,7 @@ A checkable list of all boards included in the official `arduino:avr` core packa
 
 ## MBED OS GIGA Core (`arduino:mbed_giga`)
 
-- [ ] Arduino GIGA R1 WiFi
+- [x] Arduino GIGA R1 WiFi
 
 ---
 
