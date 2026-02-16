@@ -34,6 +34,11 @@ A checkable list of all boards included in the official `arduino:avr` core packa
 - [ ] Arduino Yún Mini
 - [ ] Arduino Industrial 101
 - [ ] Linino One
+
+---
+
+## megaAVR Core (`arduino:megaavr`)
+
 - [ ] Arduino Uno WiFi Rev2
 - [ ] Arduino Nano Every
 
@@ -58,6 +63,9 @@ A checkable list of all boards included in the official `arduino:avr` core packa
 - [ ] Arduino MKR GSM 1400
 - [ ] Arduino MKR NB 1500
 - [ ] Arduino MKR Vidor 4000
+- [ ] Arduino M0 Pro
+- [ ] Arduino M0
+- [ ] Arduino Tian
 - [ ] Adafruit Circuit Playground Express
 
 ---
@@ -83,6 +91,27 @@ A checkable list of all boards included in the official `arduino:avr` core packa
 
 ---
 
+## Renesas UNO R4 Core (`arduino:renesas_uno`)
+
+- [ ] Arduino Uno R4 Minima
+- [ ] Arduino Uno R4 WiFi
+- [ ] Arduino Nano R4
+
+---
+
+## Renesas Portenta Core (`arduino:renesas_portenta`)
+
+- [ ] Arduino Portenta C33
+
+---
+
+## ESP32 Core (`arduino:esp32`)
+
+- [ ] Arduino Nano ESP32
+- [ ] Arduino Nesso N1
+
+---
+
 ## MBED OS Portenta Core (`arduino:mbed_portenta`)
 
 - [ ] Arduino Portenta H7
@@ -98,6 +127,7 @@ A checkable list of all boards included in the official `arduino:avr` core packa
 - [ ] Arduino Nano 33 BLE
 - [ ] Arduino Nano 33 BLE Sense
 - [ ] Arduino Nano 33 BLE Sense Rev2
+- [ ] Arduino Stella
 
 ---
 
